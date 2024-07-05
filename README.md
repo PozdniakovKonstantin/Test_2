@@ -1,1 +1,1 @@
-Publication Center (app is being developed)
+Publication Center (application is being developed)
